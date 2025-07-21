@@ -55,6 +55,11 @@ Este projeto está finalizado, mas segue aberto para melhorias, como:
 - [Portfólio GitHub](https://github.com/Paulodados-0411)
 
 Feedbacks são sempre bem-vindos! 🙌
+<img width="1820" height="685" alt="minicurso python 2" src="https://github.com/user-attachments/assets/ddc0b50f-5f98-4263-8034-9227d292a349" />
+<img width="1827" height="738" alt="minicurso python 3" src="https://github.com/user-attachments/assets/6dd6a5a3-f4c7-4a4a-9e89-b7aa8ae2760a" />
+<img width="1818" height="617" alt="minicurso python 1" src="https://github.com/user-attachments/assets/7a669b55-edb8-47fc-be0b-e7ca1cbdcc8e" />
+
+
 
 # -An-lise-de-Dados-com-Python-Hashtag-Treinamentos
 Analisar uma base de dados bancária para identificar padrões de cancelamento de clientes, utilizando ferramentas do ecossistema Python.
